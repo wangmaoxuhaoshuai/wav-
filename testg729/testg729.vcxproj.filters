@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="testg729.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\ACELP_CA.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\BASIC_OP.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\BITS.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\CODER.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\COD_LD8A.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\COR_FUNC.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\DEC_GAIN.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\DEC_LAG3.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\DEC_LD8A.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\DE_ACELP.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\DSPFUNC.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\FILTER.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\GAINPRED.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\LPC.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\LPCFUNC.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\LSPDEC.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\LSPGETQ.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\OPER_32B.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\PITCH_A.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\POSTFILT.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\POST_PRO.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\PRED_LT3.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\PRE_PROC.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\P_PARITY.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\QUA_GAIN.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\QUA_LSP.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\TAB_LD8A.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\TAMING.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g729a\UTIL.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="g729a\BASIC_OP.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="g729a\LD8A.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="g729a\OPER_32B.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="g729a\TAB_LD8A.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="g729a\TYPEDEF.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

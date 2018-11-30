@@ -1,0 +1,37 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(729.vcxproj, testg729.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  ACELP_CA.C
+  BASIC_OP.C
+  BITS.C
+  CODER.C
+  COD_LD8A.C
+  COR_FUNC.C
+  DEC_GAIN.C
+  DEC_LAG3.C
+  DEC_LD8A.C
+  DE_ACELP.C
+  DSPFUNC.C
+  FILTER.C
+  GAINPRED.C
+  LPC.C
+  LPCFUNC.C
+  LSPDEC.C
+  LSPGETQ.C
+  OPER_32B.C
+  PITCH_A.C
+  POSTFILT.C
+  正在生成代码...
+  正在编译...
+  POST_PRO.C
+  PRED_LT3.C
+  PRE_PROC.C
+  P_PARITY.C
+  QUA_GAIN.C
+  QUA_LSP.C
+  TAB_LD8A.C
+  TAMING.C
+  UTIL.C
+  正在生成代码...
+  stdafx.cpp
+  testg729.cpp
+  正在生成代码...
+  new729.vcxproj -> F:\media_course\multimediademocode\testg729\Debug\new729.exe
